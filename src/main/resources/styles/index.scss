@@ -1,0 +1,15 @@
+.page-body {
+  height: calc(100% - 48px) !important;
+  position: absolute;
+  left: 140px;
+  width: 100%;
+}
+
+.side-bar {
+  position: fixed !important;
+  margin-right: auto;
+  top: 0 !important;
+  height: 100%;
+  width: 256px;
+  border-radius: 0 !important;
+}
